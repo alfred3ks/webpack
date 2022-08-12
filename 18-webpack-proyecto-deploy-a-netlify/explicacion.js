@@ -13,7 +13,7 @@ https://www.netlify.com/
 netlify.toml con la siguiente configuracion:
 
 [build]
-  public = "dist"
+  publish = "dist"
   command = "npm run build"
 
 Nuestro proyecto ahora debemos guardar todos los cambios.
